@@ -1,0 +1,23 @@
+.thanos {
+  width: 43px;
+	height: 69px;
+	display: inline-block;
+  position: relative;
+}
+
+.gauntlet {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  overflow: visible;
+  position: absolute;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+
+/* style={{height:'100%',width:'100%','backgroundRepeat':' no-repeat',cursor: 'pointer',overflow: 'visible',position: 'absolute',}}
+style={{width: 43,height: 69, display: 'inline-block',position: 'relative',}} */
