@@ -1,5 +1,6 @@
 import Head from 'next/head'
 
+
 import placeholder from '../assets/placeholder.png'
 import './style.css'
 
@@ -7,9 +8,21 @@ export default () => (
   <div className="app">
     <Head>
     
+
       
       <meta key="description" name="description"content="A website that delivers random Thanos quotes in a snap of fingers"/>
-     
+      <script
+      dangerouslySetInnerHTML={{
+        __html: `if (typeof window !== "undefined") {
+        // hacky force https
+        if (window.location.protocol != "https:") {
+          window.location.href =
+            "https:" +
+            window.location.href.substring(window.location.protocol.length);
+        }
+      }`
+      }}
+    />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
       <link rel="shortcut icon" href={placeholder} />

@@ -1,5 +1,6 @@
 import React, { Fragment, useState} from 'react';
 import Popup from "reactjs-popup";
+import ReactGA from 'react-ga'
 
 
 import Meta from '../components/Meta';
@@ -12,7 +13,8 @@ import movies from '../movies/index'
 export default function Index() {
   const[quote, setQuote] = useState('')
   
- 
+  ReactGA.initialize('G-95R57WF6VV');
+  ReactGA.pageview(window.location.pathname + window.location.search);
 
   const movieQuotes = movies.infinitywar.subs
 
