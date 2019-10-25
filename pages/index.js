@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, Fragment } from 'react';
 import Popup from "reactjs-popup";
 
 
-import Layout from "../components/Layout.js"
+
 import Meta from '../components/Meta';
 import Footer from '../components/Footer'
 
@@ -25,7 +25,7 @@ export default function Index() {
   return (
     
     
-    <Layout>
+    <Fragment>
     <Meta/>
       <input 
       onChange={event=> setQuote(event.target.value)}
@@ -61,6 +61,6 @@ export default function Index() {
       </div>
    
     <Footer/>
-    </Layout>
+    </Fragment>
   );
 }

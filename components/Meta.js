@@ -11,6 +11,15 @@ export default () => (
 
       
       <meta key="description" name="description"content="A website that delivers random Thanos quotes in a snap of fingers"/>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"></script>
+      <script>
+      dangerouslySetInnerHTML={{
+        __html:`window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-95R57WF6VV');`}}
+      </script>
       <script
       dangerouslySetInnerHTML={{
         __html: `if (typeof window !== "undefined") {
