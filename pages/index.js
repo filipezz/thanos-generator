@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Popup from "reactjs-popup";
 
 
-import Layout from "../components/layout.js"
+import Layout from "../components/Layout.js"
 import Meta from '../components/Meta';
 import Footer from '../components/Footer'
 
