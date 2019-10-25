@@ -11,7 +11,7 @@ export default () => (
 
       
       <meta key="description" name="description"content="A website that delivers random Thanos quotes in a snap of fingers"/>
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"></script>
+       <script async src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"></script>
       <script
       dangerouslySetInnerHTML={{
         __html:`window.dataLayer = window.dataLayer || [];
@@ -31,7 +31,7 @@ export default () => (
         }
       }`
       }}
-    />
+    /> 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
       <link rel="shortcut icon" href={placeholder} />
@@ -169,6 +169,28 @@ export default () => (
     transition: 0.1s;
    }
 
+   .modal-gif{
+    width: 20vw;
+  }
+  .modal-p{
+    font-size: 0.53em;
+    color: crimson;
+  }
+  @media (max-width: 768px){
+    .modal-gif{
+      width: 25vw;
+  }
+  @media (max-width: 768px){
+    .modal-gif{
+      width: 35vw;
+  }
+}
+@media (max-width: 425px){
+  .modal-gif{
+    width: 50vw;
+}
+}
+ 
 
    @media (max-width: 830px){
    input {
@@ -185,13 +207,7 @@ export default () => (
    }
   }
   
-    .modal > img{
-      width: 60%;
-
-    }
-    .modal > h2,p{
-      font-size: 1vw;
-    }
+    
   
     `}</style>
   </div>
