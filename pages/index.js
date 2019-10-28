@@ -9,17 +9,24 @@ import Footer from '../components/Footer'
 import movies from '../movies/index'
 
 
-
 export default function Index() {
   const[quote, setQuote] = useState('')
+  const [quoteIndex, setQuoteIndex] = useState(1)
   
- 
-
+  
+  
   const movieQuotes = movies.infinitywar.subs
+  
+  
+  const search = Object.values(movieQuotes).filter(x => new RegExp(quote, 'i').test(x.sub))
+  
+  
+  const currentQuote = movieQuotes[quoteIndex]
+  
+  const nextButton = ">"
+  const previousButton = "<"
 
-
-  const search = Object.values(movieQuotes).filter(x => new RegExp(quote, 'i').test(x.sub)).slice(-10)
-
+const arrayLimit=quoteIndex<movieQuotes.length-1
 
 
   return (
@@ -38,26 +45,40 @@ export default function Index() {
       
       <div className="search-container">
      {quote.length? search.map(subs=> 
+
         
-          <Popup  contentStyle={{
+          <Popup  key={subs.index}  contentStyle={{
             position: 'relative',
             background: 'rgba(22, 22, 22, 0.9)',
             maxWidth: "700px",
             width: "80%",
             margin: 'auto',
-            padding: '5px',
+            padding: '15px',
             border: 0,
             borderRadius: '3px',
             fontSize: '3vw',
            }}
-            trigger={<ul className="search-results">{subs.sub}</ul>} modal closeOnDocumentClick>
+            trigger={<ul className="search-results">{subs.sub}</ul> } modal closeOnDocumentClick
+            onOpen={()=> setQuoteIndex(subs.index-1) }>
               
-              <img className="modal-gif" src="https://i.imgur.com/7ChVWbF.gif" alt={subs.sub}/>
-              <h5 className="modal-h5">{subs.sub}</h5>
-              <p className="modal-p">{subs.time}</p>
+              <img className="modal-gif" src="https://i.imgur.com/7ChVWbF.gif" alt={currentQuote.sub}/>
+              <h5 className="modal-h5">{currentQuote.sub}</h5>
+              <p className="modal-p">{currentQuote.time}</p>
+              <div style={{
+              display: 'flex',
+              justifyContent: 'space-between',
+              padding: '0 40px 20px',}}
+               >
+              {quoteIndex?<span className="btn" onClick={()=> setQuoteIndex(quoteIndex-1)}> {previousButton} </span>: <span className="btn-disabled" disabled>{previousButton}</span>}
+              {arrayLimit?<span className="btn" onClick={()=> setQuoteIndex(quoteIndex+1)}> {nextButton} </span>:<span className="btn-disabled" disabled>{nextButton}</span>}
+              </div>
+             
+              
+              
               
            
           </Popup>
+          
           ):''} 
       </div>
    

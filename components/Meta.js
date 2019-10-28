@@ -12,7 +12,7 @@ export default () => (
       <meta key="description" name="description"content="A website that delivers random Thanos quotes in a snap of fingers"/>
       <script data-ad-client="ca-pub-6973490453215918" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
        <script async src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"></script>
-       <script
+        <script
       dangerouslySetInnerHTML={{
         __html:`window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -30,7 +30,7 @@ export default () => (
             window.location.href.substring(window.location.protocol.length);
         }
       }`
-      }}
+      }} 
     />  
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
@@ -135,6 +135,39 @@ export default () => (
     
 
   }
+  .btn{
+    color: white;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    padding: 6px 13px;
+    cursor: pointer;
+    background: transparent;
+    border: 1px solid;
+    transition: .2s ease-in-out;
+  }
+  .btn:hover{
+    background:#e0c021;
+    color: #161616
+    
+
+  }
+  .btn:active{
+    background:#e0d900;;
+    color: #161616
+    
+
+  }
+
+  .btn-disabled{
+    cursor: not-allowed;
+    background: rgba(0,0,0,0);
+    color: white;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    padding: 6px 13px;
+    border: 1px solid;
+    opacity:0.4
+  }
   ::placeholder {
     color: rgba(255, 255, 255, 0.2);
     font-weight: 100;
@@ -172,9 +205,12 @@ export default () => (
    .modal-gif{
     width: 20vw;
   }
-  
-  .modal-p{
+  .modal-h5{
     font-size: 0.63em;
+    
+  }
+  .modal-p{
+    font-size: 0.43em;
     color: crimson;
   }
   @media (max-width: 768px){
