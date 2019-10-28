@@ -18,7 +18,7 @@ export default function Index() {
   const movieQuotes = movies.infinitywar.subs
   
   
-  const search = Object.values(movieQuotes).filter(x => new RegExp(quote, 'i').test(x.sub))
+  const search = Object.values(movieQuotes).filter(x => new RegExp(quote, 'i').test(x.sub)).slice(-10)
   
   
   const currentQuote = movieQuotes[quoteIndex]
