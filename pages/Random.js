@@ -1,14 +1,22 @@
-import React,{Fragment, useState} from 'react';
+import React, {Fragment, useState} from 'react';
 
 import Meta from '../components/Meta';
+import Footer from '../components/Footer'
 
 import Thanos from '../lib/index'
 import placeholder from '../assets/placeholder.png'
 
+import movies from '../movies/index'
 
 
-export default function Random() {
+
+export default function random() {
     const[randomQuote, setRandomQuote] = useState('')
+    
+    const movieQuotes = movies.infinitywar.subs
+
+    const random = movieQuotes[Math.floor(Math.random() * movieQuotes.length)]
+   console.log(randomQuote)
     
   return (
     <Fragment>
@@ -18,16 +26,17 @@ export default function Random() {
         <h2>Click on the gauntlet to get a random quote</h2>
         
         
-          <img className="gif" src={randomQuote?randomQuote.gif_url: placeholder } alt='Thanos'/>
-          <h3>{randomQuote.quote}</h3>
+          <video  preload="true" loop autoPlay className="gif" src={randomQuote?randomQuote.gif: placeholder } alt='Thanos'/>
+          <h3>{randomQuote.sub}</h3>
         
     
          <div className='gauntlet-container'>
-          <div className="gauntlet-div">
+          <div onClick={()=>setRandomQuote(random)}className="gauntlet-div">
             <Thanos/>
           </div>
         </div>
         </div>
+        <Footer/>
     </Fragment>
   );
 }

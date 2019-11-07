@@ -10,7 +10,7 @@ import movies from '../movies/index'
 
 
 export default function Index() {
-  const[quote, setQuote] = useState('')
+  const [quote, setQuote] = useState('')
   const [quoteIndex, setQuoteIndex] = useState(1)
   
   
@@ -26,9 +26,10 @@ export default function Index() {
   const nextButton = ">"
   const previousButton = "<"
 
-const arrayLimit=quoteIndex<movieQuotes.length-1
+  const arrayLimit=quoteIndex<movieQuotes.length-1
 
 
+  
   return (
     
     
@@ -61,7 +62,7 @@ const arrayLimit=quoteIndex<movieQuotes.length-1
             trigger={<ul className="search-results">{subs.sub}</ul> } modal closeOnDocumentClick
             onOpen={()=> setQuoteIndex(subs.index-1) }>
               
-              <img className="modal-gif" src="https://i.imgur.com/7ChVWbF.gif" alt={currentQuote.sub}/>
+              <video className="modal-gif" src={currentQuote.gif} alt={currentQuote.sub}  preload="true" loop autoPlay/>
               <h5 className="modal-h5">{currentQuote.sub}</h5>
               <p className="modal-p">{currentQuote.time}</p>
               <div style={{
@@ -72,10 +73,7 @@ const arrayLimit=quoteIndex<movieQuotes.length-1
               {quoteIndex?<span className="btn" onClick={()=> setQuoteIndex(quoteIndex-1)}> {previousButton} </span>: <span className="btn-disabled" disabled>{previousButton}</span>}
               {arrayLimit?<span className="btn" onClick={()=> setQuoteIndex(quoteIndex+1)}> {nextButton} </span>:<span className="btn-disabled" disabled>{nextButton}</span>}
               </div>
-             
-              
-              
-              
+            
            
           </Popup>
           

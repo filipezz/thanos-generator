@@ -12,7 +12,7 @@ export default () => (
       <meta key="description" name="description"content="A website that delivers random Thanos quotes in a snap of fingers"/>
       <script data-ad-client="ca-pub-6973490453215918" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
        <script async src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"></script>
-        <script
+        {/* <script
       dangerouslySetInnerHTML={{
         __html:`window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -31,7 +31,7 @@ export default () => (
         }
       }`
       }} 
-    />  
+    />   */}
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
       <link rel="shortcut icon" href={placeholder} />
@@ -65,7 +65,7 @@ export default () => (
       color: goldenrod;
       font-style: italic;
       font-family: monospace;
-      font-size: xx-large;
+      font-size: x-large;
       position: relative;
 
     }
@@ -203,10 +203,11 @@ export default () => (
    }
 
    .modal-gif{
-    width: 20vw;
+    width: 40vw;
+    
   }
   .modal-h5{
-    font-size: 0.63em;
+    font-size: 0.53em;
     
   }
   .modal-p{

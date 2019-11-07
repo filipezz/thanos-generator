@@ -5,7 +5,7 @@
       "sub": 
         "I know what it's like to lose. To feel so desperately that you're right... yet to fail, nonetheless."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/TgNxOm5onjEcCCkenR/giphy.mp4",
       "time": "2:06"
     },
     
@@ -19,7 +19,7 @@
       "sub": 
         "It's frightening. Turns the legs to jelly. But I ask you, to what end?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/f9lBOH2GsSHuFuOreI/giphy.mp4",
       "time": "2:24"
     },
     
@@ -31,7 +31,7 @@
       "sub": 
         "Dread it, run from it... destiny arrives all the same. And now, it's here. Or should I say... I am."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Qw7gnDYkeu5RseC46q/giphy.mp4",
       "time": "2:35"
     },
    
@@ -44,7 +44,7 @@
       "sub": 
         "The Tesseract. Or your brother's head. I assume you have a preference."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/W6cZC6u1kzuYLRty8g/giphy.mp4",
       "time": "2:58"
     },
     
@@ -52,9 +52,9 @@
     {
       "index": 5,
       "sub": 
-        " Your optimism is misplaced, Asgardian"
+        "Your optimism is misplaced, Asgardian"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Tg0aULwi5KEx45T4i7/giphy.mp4",
       "time": "4:04"
     },
    
@@ -68,7 +68,7 @@
       "sub": 
         "That was a mistake."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/QTfKXEmlgd4Iu0CvIJ/giphy.mp4",
       "time": "5:45"
     },
 
@@ -82,7 +82,7 @@
       "sub": 
         "There are two more stones on Earth. Find them, my children, and bring them to me on Titan."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/LqgBhC7aY8N43Vk00A/giphy.mp4",
       "time": "7:23"
     },
     
@@ -96,7 +96,7 @@
       "sub": 
         "If you consider failure experience."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/LPlMrXUITL6aefuJ0X/giphy.mp4",
       "time": "7:43"
     },
 
@@ -107,10 +107,10 @@
 
     {
       "index": 9,
-      "sub": [
+      "sub": 
         "Undying?"
-      ],
-      "gif": "this is a gif",
+      ,
+      "gif": "https://media.giphy.com/media/QWFOuT6ZMdINsCqayd/giphy.mp4",
       "time": "8:27"
     },
 
@@ -122,7 +122,7 @@
         "You should choose your words more carefully.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/W3Br8vwDUNGMSdwzRj/giphy.mp4",
       "time": "8:32"
     },
 
@@ -135,7 +135,7 @@
       "sub": 
         "No resurrections this time."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/J6OxCjfSdgKywPJTVG/giphy.mp4",
       "time": "9:30"
     },
 
@@ -151,7 +151,7 @@
       "sub": 
         "What's wrong, little one?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/YPtaoYt5BwfqOJUYia/giphy.mp4",
       "time": "43:05"
     }, 
     {
@@ -159,7 +159,7 @@
       "sub": 
         "What's your name?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/SxFQdhI9mVFA9gdn9j/giphy.mp4",
       "time": "43:15"
     },    
     {
@@ -167,7 +167,7 @@
       "sub": 
         "You're quite the fighter, Gamora. Come. Let me help you."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/MCvEyE7SD1mJkrSs9W/giphy.mp4",
       "time": "43:20"
     },
    
@@ -177,7 +177,7 @@
       "sub": 
         "Look. Pretty, isn't it? Perfectly balanced, as all things should be."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Ma1gT2TlI5bLiX0T2b/giphy.mp4",
       "time": "43:40"
     },
     
@@ -189,7 +189,7 @@
       "sub": 
         "Too much to one side or the other... Here. You try."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/j1mdsnhFwsBnmz27TU/giphy.mp4",
       "time": "43:51"
     },
      
@@ -200,7 +200,7 @@
       "sub": 
         "Concentrate."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/UVSPdi3qmMgkP7DpnB/giphy.mp4",
       "time": "44:13"
     },
     {
@@ -208,7 +208,7 @@
       "sub": 
         "There. You've got it."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ZablqN5Nwk9JyNBxwk/giphy.mp4",
       "time": "44:18"
     },
 
@@ -226,7 +226,7 @@
         "Everyone in the galaxy knows you'd sell your own brother... if you thought it would add even the slightest trinket to your pathetic collection.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/igybgud0kknkPENs8c/giphy.mp4",
       "time": "47:52"
     },
     
@@ -236,7 +236,7 @@
       "sub": 
         "I know you have the Reality Stone, Tivan. Giving it to me will spare you a great deal of suffering."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/fvqbWZDBCXFKCSD7C2/giphy.mp4",
       "time": "48:07"
     },
   
@@ -252,7 +252,7 @@
       "sub": 
         "I imagine it's like breathing for you."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/YNDPiN68pxHsOw9yoD/giphy.mp4",
       "time": "48:26"
     },
 
@@ -265,7 +265,7 @@
       "sub": 
         "You do understand. Not even you would surrender something so precious."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/U6MpZu775rDD9Y018S/giphy.mp4",
       "time": "48:30"
     },
 
@@ -281,7 +281,7 @@
         "Then you're more of a fool than I took you for.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/f4DDxL7jToB4kOHpSX/giphy.mp4",
       "time": "48:38"
     },
 
@@ -291,7 +291,7 @@
       "sub": 
         "Last chance, charlatan. Where's the stone?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/cj1nnnJcXc2VhD7IyN/giphy.mp4",
       "time": "48:42"
     },
    
@@ -307,7 +307,7 @@
       "sub": 
         "Why?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/LSLsJizNAp8Kg07S7n/giphy.mp4",
       "time": "50:02"
     },
 
@@ -317,7 +317,7 @@
       "sub": 
         "Why you, daughter?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/PnC7YtvzN1L9bEDe8p/giphy.mp4",
       "time": "50:14"
     },
 
@@ -332,7 +332,7 @@
       "sub": 
         "Is that sadness I sense in you, daughter?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/WpZrL0Zuz6xQbLBTST/giphy.mp4",
       "time": "50:50"
     },
     {
@@ -340,7 +340,7 @@
       "sub": 
         "In my heart, I knew you still cared."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/RhZNOJuwxpnN1617jV/giphy.mp4",
       "time": "50:56"
     },
     {
@@ -348,7 +348,7 @@
       "sub": 
         "But one never knows for sure."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/j6lHIHkJCcoF6uPnr1/giphy.mp4",
       "time": "51:06"
     },
     {
@@ -356,7 +356,7 @@
       "sub": 
         "Reality is often disappointing."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/j6lHIHkJCcoF6uPnr1/giphy.mp4",
       "time": "51:18"
     },
     {
@@ -364,7 +364,7 @@
       "sub": 
         "That is, it was. Now... reality can be whatever I want."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/lrgjUkGDZ0VyVHn8U5/giphy.mp4",
       "time": "51:24"
     },
    
@@ -377,7 +377,7 @@
       "sub": 
         "I counted on it."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/RNKneJ2fMgdbPdALtz/giphy.mp4",
       "time": "51:38"
     },
     {
@@ -386,7 +386,7 @@
         "There's something we need to discuss, little one.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/S3QY4NgyuurkPQwWc3/giphy.mp4",
       "time": "51:40"
     },
 
@@ -401,7 +401,7 @@
       "sub": 
         "Ah, the boyfriend."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/igPWEZdjSi76RdfngG/giphy.mp4",
       "time": "52:13"
     },
 
@@ -416,7 +416,7 @@
       "sub": 
         "Oh, daughter. You expect too much from him."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ZC090KO6fpzyjqTEK6/giphy.mp4",
       "time": "52:47"
     },
    
@@ -425,7 +425,7 @@
       "sub": 
         "She's asked, hasn't she? Do it."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/UVeIG38ogSOk5tF6kv/giphy.mp4",
       "time": "52:55"
     },
     
@@ -434,7 +434,7 @@
       "sub": 
         "Do it!"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Lo716h4DlmUizNrzFC/giphy.mp4",
       "time": "53:07"
     },
 
@@ -447,7 +447,7 @@
       "sub": 
         "I like him."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/XI1VRqexcnjcIlqgxm/giphy.mp4",
       "time": "53:41"
     },
 
@@ -466,7 +466,7 @@
       "sub": 
         "I thought you might be hungry."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/LqyAeQuM3klRKTosmc/giphy.mp4",
       "time": "65:34"
     },
     
@@ -475,7 +475,7 @@
       "sub": 
         "So I've been told. Even so, I'd hoped you'd sit in it one day."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/dCRE73v3h0Go5hCtD6/giphy.mp4",
       "time": "65:50"
     },
     
@@ -493,7 +493,7 @@
       "sub": 
         "You told me that too. Every day. For almost 20 years."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ihGhshhKOKvnwh3eiJ/giphy.mp4",
       "time": "66:08"
     },
    
@@ -507,7 +507,7 @@
       "sub": 
         "I saved you."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/WRQmfl09JPaWMyJIt2/giphy.mp4",
       "time": "66:25"
     },
 
@@ -519,7 +519,7 @@
         "Going to bed hungry, scrounging for scraps. Your planet was on the brink of collapse. I'm the one who stopped that. "
         
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Pgo6gItNBoZH7TrPrS/giphy.mp4",
       "time": "66:36"
     },
     
@@ -529,7 +529,7 @@
       "sub": 
         "Do you know what's happened since then? The children born... have known nothing but full bellies and clear skies. It's a paradise."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/l0FM4xaQ75snA3aW4a/giphy.mp4",
       "time": "66:47"
     },
     
@@ -543,7 +543,7 @@
       "sub": 
         "A small price to pay for salvation."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/chnwEALdVHnf49PzAF/giphy.mp4",
       "time": "66:59"
     },
     
@@ -552,7 +552,7 @@
       "sub": 
         "Little one, it's a simple calculus."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/cNq0X3nMMSEBRTsLPh/giphy.mp4",
       "time": "67:03"
     },
     {
@@ -561,7 +561,7 @@
         "This universe is finite, its resources finite. If life is left unchecked, life will cease to exist.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/jruvisq8SAiFV3eAZ3/giphy.mp4",
       "time": "67:05"
     },
     
@@ -570,7 +570,7 @@
       "sub": 
         "It needs correction."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ft07HbeSXpwZDMwBEv/giphy.mp4",
       "time": "67:13"
     },
 
@@ -581,7 +581,7 @@
       "sub": 
         "I'm the only one who knows that. At least, I'm the only one with the will to act on it."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/cl2NHCyavgyjIL80Nh/giphy.mp4",
       "time": "67:17"
     },
    
@@ -590,7 +590,7 @@
       "sub": 
         "For a time... you had that same will... as you fought by my side, daughter."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/j1mp8pNEJUI0I5VTrZ/giphy.mp4",
       "time": "67:26"
     },
     
@@ -606,7 +606,7 @@
         "And, in doing so, made you the fiercest woman in the galaxy.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/j1mp8pNEJUI0I5VTrZ/giphy.mp4",
       "time": "67:48"
     },
     {
@@ -615,7 +615,7 @@
         "That's why I trusted you to find the Soul Stone.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/cJYzER1UOsI6sAoiLz/giphy.mp4",
       "time": "67:55"
     },
 
@@ -629,7 +629,7 @@
       "sub": 
         "I am disappointed."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/L3Eg6HvP79SqH2NVt5/giphy.mp4",
       "time": "68:05"
     },
     {
@@ -637,7 +637,7 @@
       "sub": 
         "But not because you didn't find it."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/URdQwLNVPoUOcKGZ09/giphy.mp4",
       "time": "68:08"
     },
     {
@@ -645,7 +645,7 @@
       "sub": 
         "But because you did. And you lied."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/LSoNjoLcBbbQqLhyJg/giphy.mp4",
       "time": "68:14"
     },
     
@@ -661,7 +661,7 @@
         "Some time ago, your sister snuck aboard this ship to kill me. And very nearly succeeded. So I brought her here. To talk."
         
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Qy8aAu77hM7RRBPKWq/giphy.mp4",
       "time": "68:46"
     },
    
@@ -678,7 +678,7 @@
       "sub": 
         "You're strong. Me. You're generous. Me. But I never taught you to lie."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/LLZJgI6a81PpqHH9B8/giphy.mp4",
       "time": "69:44"
     },
    
@@ -687,7 +687,7 @@
       "sub": 
         "That's why you're so bad at it."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Q81Hnru9QhyDBYU9YO/giphy.mp4",
       "time": "70:00"
     },
     {
@@ -695,7 +695,7 @@
       "sub": 
         "Where is the Soul Stone?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/h4raBRvoXSdy7aYeqd/giphy.mp4",
       "time": "70:05"
     },
 
@@ -710,7 +710,7 @@
       "sub": 
         "Show me."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/L13277IegmolPfp53E/giphy.mp4",
       "time": "70:51"
     },
 
@@ -731,7 +731,7 @@
       "sub": 
         "The stone had better be up there. For your sister's sake."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/JRCSOUvc0HZzjXmFmY/giphy.mp4",
       "time": "84:35"
     },
    
@@ -745,7 +745,7 @@
       "sub": 
         "You know us?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/fqgcCRPPVwrqsIWxl4/giphy.mp4",
       "time": "85:13"
     },
 
@@ -756,7 +756,7 @@
       "sub": 
         "Where is the Soul Stone?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/duAEffjJfUXZRgM6dt/giphy.mp4",
       "time": "85:20"
     },
 
@@ -766,7 +766,7 @@
       "sub": 
         "I am prepared."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ZeL6rbOBukdp07wteq/giphy.mp4",
       "time": "85:29"
     },
 
@@ -778,7 +778,7 @@
       "sub": 
         "How is it you know this place so well?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/YRmcwAYBoIaZ1irZOQ/giphy.mp4",
       "time": "85:54"
     },
    
@@ -790,7 +790,7 @@
       "sub": 
         "Tell me what it needs."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/YLtHlPOd6gnmHpWuvN/giphy.mp4",
       "time": "86:43"
     },
     
@@ -799,7 +799,7 @@
       "sub": 
         "Of what?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/emGD3G8Nm8A19H4O3S/giphy.mp4",
       "time": "86:56"
     },
    
@@ -811,7 +811,7 @@
       "sub": 
         "I ignored my destiny once. I cannot do that again. Even for you."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/XcdoxszJmy2VAuazSO/giphy.mp4",
       "time": "88:53"
     },
    
@@ -820,7 +820,7 @@
       "sub": 
         "I'm sorry, little one."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/UrW2t6D69hUVjOtZCu/giphy.mp4",
       "time": "89:28"
     },
     
@@ -841,7 +841,7 @@
       "sub": 
         "I take it the Maw is dead."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/lrESshNN9b2RYdQt8a/giphy.mp4",
       "time": "106:29"
     },
     {
@@ -849,7 +849,7 @@
       "sub": 
         "This day extracts a heavy toll."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/WTXkwp9aZmVXLkspSf/giphy.mp4",
       "time": "106:34"
     },
     {
@@ -857,7 +857,7 @@
       "sub": 
         "Still, he accomplished his mission."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ZEYms3IZI3IVBJyQ0Q/giphy.mp4",
       "time": "106:38"
     },
 
@@ -871,7 +871,7 @@
       "sub": 
         "And where do you think he brought you?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/JUMQTMUDapCH2MytPe/giphy.mp4",
       "time": "106:49"
     },
 
@@ -884,7 +884,7 @@
       "sub": 
         "It was. And it was beautiful."
       ,
-      "gif": "this is a gif ",
+      "gif": "https://media.giphy.com/media/ZB2MsBhKBBz8CB1pMm/giphy.mp4",
       "time": "107:00"
     },
    
@@ -893,7 +893,7 @@
       "sub": 
         "Titan was like most planets. Too many mouths, not enough to go around. And when we faced extinction, I offered a solution."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/jO16wSrMr3HTHIitYO/giphy.mp4",
       "time": "107:08"
     },
     
@@ -907,14 +907,14 @@
         "But random, dispassionate, fair to rich and poor alike."
        
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/j6x1UwKQoFwxzZWFO5/giphy.mp4",
       "time": "107:20"
     },
     {
       "index": 77,
       "sub": 
         "They called me a madman.",
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/lRRUnDaGdkIPPIk4UG/giphy.mp4",
       "time": "107:25"
     },
     {
@@ -922,7 +922,7 @@
       "sub": 
         "And what I predicted came to pass."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/l5DUAkhYi3J2QIaK9o/giphy.mp4",
       "time": "107:28"
     },
     
@@ -934,7 +934,7 @@
       "sub": 
         "I'm a survivor."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Kc23JqZ15YegEy2rAb/giphy.mp4",
       "time": "107:35"
     },
     
@@ -944,7 +944,7 @@
         "With all six stones, I could simply snap my fingers. They would all cease to exist. I call that mercy.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/WtDP7q4bXt6cdiiOiA/giphy.mp4",
       "time": "107:39"
     },
    
@@ -956,7 +956,7 @@
       "sub": 
         "I'd finally rest... and watch the sun rise on a grateful universe."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ZENCVfxKp5aJs5HUI7/giphy.mp4",
       "time": "107:53"
     },
     
@@ -966,7 +966,7 @@
         "The hardest choices require the strongest wills.",
       
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/U3bL2F2VcSO1No4ISE/giphy.mp4",
       "time": "108:00"
     },
 
@@ -978,7 +978,7 @@
       "sub": 
         "Ours?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/UsGfRBZxj2y8huZpEx/giphy.mp4",
       "time": "108:10"
     },
 
@@ -991,7 +991,7 @@
       "sub": 
         "Insect!"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/kzxBfDlmUwBTnwbYNh/giphy.mp4",
       "time": "109:15"
     },
 
@@ -1003,7 +1003,7 @@
       "sub": 
         "Well, well."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/lnPRJEYfLyEfCkzoRB/giphy.mp4",
       "time": "109:54"
     },
     
@@ -1012,7 +1012,7 @@
       "sub": 
         "It would've been a waste of parts!"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/U51nlZnt2iwXMzonIa/giphy.mp4",
       "time": "109:56"
     },
 
@@ -1024,7 +1024,7 @@
       "sub": 
         "My Gamora."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/XG0z90nBaL2JH2FFbD/giphy.mp4",
       "time": "111:10"
     },
     
@@ -1036,7 +1036,7 @@
       "sub": 
         "I had to."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Wsq6FJ965MOEAYr88N/giphy.mp4",
       "time": "111:58"
     },
 
@@ -1053,7 +1053,7 @@
       "sub": 
         "You're full of tricks, wizard."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/h5LeY6m9Bw9cxE1A6Z/giphy.mp4",
       "time": "119:53"
     },
     {
@@ -1061,7 +1061,7 @@
       "sub": 
         "Yet you never once used your greatest weapon. A fake."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/h7LjvsXMrMjCLa2pLi/giphy.mp4",
       "time": "119:57"
     },
     
@@ -1075,7 +1075,7 @@
       "sub": 
         "Stark."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/VdVs95JqxMazO4w0Qo/giphy.mp4",
       "time": "120:16"
     },
     
@@ -1086,7 +1086,7 @@
       "sub": 
         "I do."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/UTXWvqEI4okZexf1V1/giphy.mp4",
       "time": "120:19"
     },
     {
@@ -1095,7 +1095,7 @@
         "You're not the only one cursed with knowledge.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/f4CmgZ6MlqYk1u73Ma/giphy.mp4",
       "time": "120:20"
     },
    
@@ -1109,7 +1109,7 @@
       "sub": 
         "Come on!"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/hrpZeOdnHYQhZDRid5/giphy.mp4",
       "time": "120:28"
     },
     {
@@ -1117,7 +1117,7 @@
       "sub": 
         "All that for a drop of blood."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/fX8e5OGddvj3HlcnvR/giphy.mp4",
       "time": "120:57"
     },
     {
@@ -1125,7 +1125,7 @@
       "sub": 
         "You have my respect, Stark."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/mBjowW1jEGUfHLxHkf/giphy.mp4",
       "time": "121:43"
     },
     {
@@ -1134,7 +1134,7 @@
         "When I'm done, half of humanity will still be alive.",
         
       
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/jtQmP6Bo4cg0UiDgtP/giphy.mp4",
       "time": "121:47"
     },
     {
@@ -1142,7 +1142,7 @@
       "sub": 
         "I hope they remember you."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/XE0Mlp7DHZSwbbxdlj/giphy.mp4",
       "time": "121:56"
     },
     
@@ -1156,7 +1156,7 @@
       "sub": 
         "No tricks."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/W2WMp5Rtqnr8jBX9a7/giphy.mp4",
       "time": "122:23"
     },
     
@@ -1167,7 +1167,7 @@
       "sub": 
         "One to go."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ftGtUBr65SJxwzAktn/giphy.mp4",
       "time": "123:21"
     },
 
@@ -1184,7 +1184,7 @@
       "sub": 
         "I understand, my child."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/ftTTVVA9weK0KMfMRn/giphy.mp4",
       "time": "128:47"
     },
     {
@@ -1192,7 +1192,7 @@
       "sub": 
         "Better than anyone."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/j5QPTyWQGAQb9WBEtl/giphy.mp4",
       "time": "128:51"
     },
 
@@ -1206,7 +1206,7 @@
       "sub": 
         "Today, I lost more than you can know."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/huUIXXy4qmsHV0lCQy/giphy.mp4",
       "time": "129:01"
     },
     {
@@ -1214,7 +1214,7 @@
       "sub": 
         "But now is no time to mourn."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Xyh8CkIfLuIdMV2GI4/giphy.mp4",
       "time": "129:06"
     },
     {
@@ -1222,7 +1222,7 @@
       "sub": 
         "Now is no time at all."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/cPl91MruPrPRaQbWMR/giphy.mp4",
       "time": "129:11"
     },
 
@@ -1234,7 +1234,7 @@
       "sub": 
         "You should have..."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/QVt1vCFjzEl6tzjFdA/giphy.mp4",
       "time": "130:56"
     },
     
@@ -1243,7 +1243,7 @@
       "sub": 
         "You should have gone for the head."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/Y0K8oSwsFIcf88PDit/giphy.mp4",
       "time": "131:05"
     },
 
@@ -1257,7 +1257,7 @@
       "sub": 
         "Daughter?"
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/lQZowZa1YjQ2Jv6niG/giphy.mp4",
       "time": "131:44"
     },
 
@@ -1268,7 +1268,7 @@
       "sub": 
         "Yes."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/lnnAz51KIic2XGxuZ7/giphy.mp4",
       "time": "131:56"
     },
    
@@ -1277,7 +1277,7 @@
       "sub": 
         "Everything."
       ,
-      "gif": "this is a gif",
+      "gif": "https://media.giphy.com/media/H3YqM6M07VraIsqazE/giphy.mp4",
       "time": "132:11"
     }  
   ]
