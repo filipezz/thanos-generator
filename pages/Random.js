@@ -26,7 +26,7 @@ export default function random() {
         <h2>Click on the gauntlet to get a random quote</h2>
         
         
-          <video  preload="true" loop autoPlay className="gif" src={randomQuote?randomQuote.gif: placeholder } alt='Thanos'/>
+          <video preload="true" loop autoPlay className="gif" src={randomQuote?randomQuote.gif: placeholder } alt='Thanos'/>
           <h3>{randomQuote.sub}</h3>
         
     
