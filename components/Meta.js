@@ -9,7 +9,7 @@ export default () => (
     <Head>
     
 
-      <meta key="description" name="description"content="A website that delivers random Thanos quotes in a snap of fingers"/>
+      <meta key="description" name="description"content="A website that delivers Thanos quotes in a snap of fingers"/>
       <script data-ad-client="ca-pub-6973490453215918" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
        <script async src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"></script>
          <script
@@ -31,7 +31,7 @@ export default () => (
         }
       }`
       }} 
-    />   
+    />    
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
       <link rel="shortcut icon" href={placeholder} />
@@ -203,7 +203,7 @@ export default () => (
    }
 
    .modal-gif{
-    width: 40vw;
+    width: 45vw;
     
   }
   .modal-h5{
@@ -216,16 +216,19 @@ export default () => (
   }
   @media (max-width: 768px){
     .modal-gif{
-      width: 25vw;
+      width: 70vw;
   }
-  @media (max-width: 768px){
-    .modal-gif{
-      width: 35vw;
+  .modal-h5{
+    font-size: 1em;
   }
+  .modal-p{
+    font-size: 0.6em;
+  }
+  
 }
 @media (max-width: 425px){
   .modal-gif{
-    width: 50vw;
+    width: 80vw;
 }
 .modal-h5{
   font-size: 2em;

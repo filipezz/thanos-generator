@@ -13,7 +13,7 @@ return(
 
 		<div>
         <p dangerouslySetInnerHTML={{
-			 __html: `<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=videogames&banner=0SW74PRTSN0T46PEPQ02&f=ifr&linkID=6a70e95ee72e534c674c17aca9b1d4ef&t=thanosgenerat-20&tracking_id=thanosgenerat-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+			 __html: `<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=videogames&banner=0SW74PRTSN0T46PEPQ02&f=ifr&linkID=6a70e95ee72e534c674c17aca9b1d4ef&t=thanosgenerat-20&tracking_id=thanosgenerat-20" width="340" height="55" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 			 `}}/>
      	</div>
 
