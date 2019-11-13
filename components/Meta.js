@@ -8,8 +8,8 @@ export default () => (
   <div className="app">
     <Head>
     
-      <meta property="og:image" content="https://i.giphy.com/media/H4QoidBOOFhPpZz4jr/giphy.gif" />
-      <meta property="og:url" content="https://i.giphy.com/media/H4QoidBOOFhPpZz4jr/giphy.gif" />
+      <meta property="og:image" content="https://giphy.com/gifs/RIXUbdM9GSIP2afPgK/html5"/>
+      <meta property="og:url" content="https://media.giphy.com/media/RIXUbdM9GSIP2afPgK/giphy.gif"/>
 
       <meta key="description" name="description"content="A website that delivers Thanos quotes in a snap of fingers"/>
       <script data-ad-client="ca-pub-6973490453215918" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
