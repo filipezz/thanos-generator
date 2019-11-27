@@ -1,30 +1,42 @@
-import Head from 'next/head'
+import Head from "next/head";
 
-
-import placeholder from '../assets/placeholder.png'
-import './style.css'
+import placeholder from "../assets/placeholder.png";
+import "./style.css";
 
 export default () => (
   <div className="app">
     <Head>
-    
-      <meta property="og:image" content="https://giphy.com/gifs/RIXUbdM9GSIP2afPgK/html5"/>
-      <meta property="og:url" content="https://media.giphy.com/media/RIXUbdM9GSIP2afPgK/giphy.gif"/>
+      <meta
+        property="og:image"
+        content="https://giphy.com/gifs/RIXUbdM9GSIP2afPgK/html5"
+      />
 
-      <meta key="description" name="description"content="A website that delivers Thanos quotes in a snap of fingers"/>
-      <script data-ad-client="ca-pub-6973490453215918" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-       <script async src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"></script>
-          <script
-      dangerouslySetInnerHTML={{
-        __html:`window.dataLayer = window.dataLayer || [];
+      <meta
+        key="description"
+        name="description"
+        content="A website that delivers Thanos quotes in a snap of fingers"
+      />
+      <script
+        data-ad-client="ca-pub-6973490453215918"
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      ></script>
+      <script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-95R57WF6VV"
+      ></script>
+      <script
+        dangerouslySetInnerHTML={{
+          __html: `window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-95R57WF6VV');`}}
+        gtag('config', 'G-95R57WF6VV');`
+        }}
       />
       <script
-      dangerouslySetInnerHTML={{
-        __html: `if (typeof window !== "undefined") {
+        dangerouslySetInnerHTML={{
+          __html: `if (typeof window !== "undefined") {
         // hacky force https
         if (window.location.protocol != "https:") {
           window.location.href =
@@ -32,17 +44,17 @@ export default () => (
             window.location.href.substring(window.location.protocol.length);
         }
       }`
-      }} 
-    />     
+        }}
+      />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
       <link rel="shortcut icon" href={placeholder} />
       <title>Thanos Generator</title>
     </Head>
     <h1>Thanos Generator</h1>
-        <div className='stars'/>
-        <div className='stars2'/>
-        <div className='stars3'/>
+    <div className="stars" />
+    <div className="stars2" />
+    <div className="stars3" />
     <style jsx global>{`
   
     html{
@@ -260,4 +272,4 @@ export default () => (
   
     `}</style>
   </div>
-)
+);
