@@ -31,7 +31,8 @@ export default () => (
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-95R57WF6VV');`
+        gtag('config', 'G-95R57WF6VV');
+        gtag('config', 'UA-150903787-1');`
         }}
       />
       <script
