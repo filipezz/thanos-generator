@@ -13,7 +13,7 @@ export default function Footer() {
       <div>
         <p
           dangerouslySetInnerHTML={{
-            __html: `<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=primeent&banner=0VJV71SCG57R1JS5TK02&f=ifr&linkID=7cce0b9b2603f40f5185ac551089eac2&t=thanosgenerat-20&tracking_id=thanosgenerat-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+            __html: `<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=primeent&banner=0VJV71SCG57R1JS5TK02&f=ifr&linkID=7cce0b9b2603f40f5185ac551089eac2&t=thanosgenerat-20&tracking_id=thanosgenerat-20" width="400" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 			 `
           }}
         />
