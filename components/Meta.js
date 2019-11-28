@@ -8,7 +8,7 @@ export default () => (
     <Head>
       <meta
         property="og:image"
-        content="https://giphy.com/gifs/RIXUbdM9GSIP2afPgK/html5"
+        content="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AAhttps://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpsVppSHugobxebBbE8HnyRMQhmcL2ICDKWNhoE-xc6p5XTOH-Nd9GcQ8eFyQN4iycUWXYuqt3Vz-vMqmU8dT-TUnw8-6PXoF3gkZHSMj"
       />
 
       <meta
@@ -31,8 +31,7 @@ export default () => (
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-95R57WF6VV');
-        gtag('config', 'UA-150903787-1');`
+        gtag('config', 'G-95R57WF6VV');`
         }}
       />
       <script
